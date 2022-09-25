@@ -14,6 +14,46 @@ const questions = [
     name: "description",
     message: "What is the description?",
   },
+  {
+    type: "input",
+    name: "installation",
+    message: "How to install your application.",
+  },
+  {
+    type: "input",
+    name: "usage",
+    message: "How to use your application.",
+  },
+  {
+    type: "input",
+    name: "contributing",
+    message: "How do you want to contribute to your application?",
+  },
+  {
+    type: "input",
+    name: "tests",
+    message: "How to test your application.",
+  },
+  {
+    type: "input",
+    name: "github",
+    message: "What is your github username?",
+  },
+  {
+    type: "input",
+    name: "email",
+    message: "What is your email?",
+  },
+  {
+    type: "list",
+    name: "license",
+    message: "Which license do you want to apply?",
+    choices: [
+      "Apache 2.0 License",
+      "Boost Software License 1.0",
+      "BSD 3-Clause License",
+    ],
+  },
 ];
 
 // TODO: Create a function to write README file
