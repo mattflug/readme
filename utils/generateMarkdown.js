@@ -62,8 +62,8 @@ ${answers.contributing}
 ## Tests
 ${answers.tests}
 
-## Questions
-${answers.github}
+## Contact
+[Link to Github](https://github.com/${answers.github})
 ${answers.email}
 `;
 }
