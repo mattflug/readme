@@ -1,35 +1,12 @@
-# title
+# FlugFolio
 
 ## Description
 
-ds
+A source to grade the accuracy of the Umpire's calls stri in each MLB game.
 
-## Table of Contents
-
-- [Installation](#installation)
-- [Usage](#usage)
-- [License](#license)
-- [Contributions](#contributions)
-- [Tests](#tests)
-- [Questions](#questions)
-
-## Installation
-d
-
-## Usage
-d
-
-## License
-[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
-[link](https://opensource.org/licenses/Apache-2.0)
-
-
-## Contributions
-d
-
-## Tests
-d
+## About
+The website can be found here
 
 ## Contact
 [Link to Github](https://github.com/mattflug)
-d
+mbflug@gmail.com
